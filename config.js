@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Người Tôi Yêu",
-    introTitle: 'Nguyễn Thị Mỹ Linh',
+    introTitle: 'Họ tên người yêu',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
